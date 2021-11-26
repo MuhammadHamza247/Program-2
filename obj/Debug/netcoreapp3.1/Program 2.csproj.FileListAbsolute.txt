@@ -1,0 +1,13 @@
+d:\c#\Program 2\bin\Debug\netcoreapp3.1\Program 2.exe
+d:\c#\Program 2\bin\Debug\netcoreapp3.1\Program 2.deps.json
+d:\c#\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.json
+d:\c#\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.dev.json
+d:\c#\Program 2\bin\Debug\netcoreapp3.1\Program 2.dll
+d:\c#\Program 2\bin\Debug\netcoreapp3.1\Program 2.pdb
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.csprojAssemblyReference.cache
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfoInputs.cache
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfo.cs
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.csproj.CoreCompileInputs.cache
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.dll
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.pdb
+d:\c#\Program 2\obj\Debug\netcoreapp3.1\Program 2.genruntimeconfig.cache
